@@ -1,3 +1,4 @@
+![Uploading Screenshot 2024-09-12 214845.png…]()
 
 1. Open the File in Power BI Desktop:
    - Launch Power BI Desktop.
