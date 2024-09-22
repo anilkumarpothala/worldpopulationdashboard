@@ -1,4 +1,5 @@
-![Uploading world_population.png…]()
+![world_population](https://github.com/user-attachments/assets/28f983a8-bb04-4bd7-9596-1aa2809e5431)
+
 
 
 1. Open the File in Power BI Desktop:
